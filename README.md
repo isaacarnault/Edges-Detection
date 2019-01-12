@@ -1,4 +1,4 @@
-# Rendering an image for edges detection using Numpy, PIL, Math and Requests packages
+# Edges detection of an image using Numpy, PIL, Math and Requests packages
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
