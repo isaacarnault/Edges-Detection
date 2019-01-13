@@ -2,7 +2,7 @@
 <p>
   
 ```python
-# Edges detection using Python - Full program
+# Edges detection using Python
 # 1. Import Numpy and related packages
 from PIL import Image, ImageDraw
 import numpy as np
