@@ -53,7 +53,7 @@ output_image.save("output_image.png")
 <details><summary>Output image</summary>
 <p>
   
-[![output-image.png](https://i.postimg.cc/Lsxj6FLM/output-image.png)](https://postimg.cc/4KhYBMW8)
+[![output-image.png](https://i.postimg.cc/hjv73ncv/output-image.png)](https://postimg.cc/XGMJpTZ6)
 
 </p>
 </details>
