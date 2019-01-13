@@ -25,7 +25,6 @@ for x in range(width):
         intensity[x, y] = sum(input_pixels[x, y]) / 2
 
 # 5. Compute intensity convolution using a for loop
-
 for x in range(1, input_image.width - 1):
     for y in range(1, input_image.height - 1):
         magx = intensity[x + 1, y] - intensity[x - 1, y]
