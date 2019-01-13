@@ -45,7 +45,7 @@ output_image.save("output_image.png")
 <details><summary>Input image</summary>
 <p>
   
-[![input-image.png](https://i.postimg.cc/s1Ch0jd5/input-image.png)](https://postimg.cc/n9TrXtLL)
+[![input-image.png](https://i.postimg.cc/0QX78Qc7/input-image.png)](https://postimg.cc/sQSMmVF2)
 
 </p>
 </details>
